@@ -1,6 +1,6 @@
 {
   "name": "mocha-jenkins-reporter",
-  "version": "0.3.5",
+  "version": "0.3.5-ffs",
   "description": "jenkins reporter for mocha",
   "main": "index.js",
   "directories": "./lib",
